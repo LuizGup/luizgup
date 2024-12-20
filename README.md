@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Trabalhando+com+RPA;Amante+do+Caf%C3%A9;GoHorse)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Trabalhando+com+RPA+na+Accord+🤖;Amante+do+Caf%C3%A9+☕;GoHorse=🐎💀)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizgup&layout=compact&theme=dark&title_color=41C1F5&icon_color=E4E4E4&text_color=F4F4F4)
 
