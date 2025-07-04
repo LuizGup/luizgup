@@ -9,34 +9,3 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=O+Aprendizado+Nunca+Acaba;Desafie-se+Constantemente;Não+espere,+ponha+em+prática;A+persistência+é+o+caminho+do+êxito.;Creia+em+si,+mas+...)
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack+🧑🏻‍💻;Amante+do+Café+☕;GoHorse=🐎💀"/>
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizgup&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizGup&show_icons=true&theme=dark)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=O+Aprendizado+Nunca+Acaba;Desafie-se+Constantemente"/>
-
-</div>
-
----
-
-### 🧑 Sobre Mim
-
-Breve descrição...
-
----
-
-### 🛠️ Tecnologias que uso:
-
-![Python](...) ![JavaScript](...) ![Git](...) ![Docker](...) etc.
-
----
-
-### 📬 Contato
-
-[![Gmail](...)](...) [![LinkedIn](...)](...) [![Wakatime](...)](...)
-
----
