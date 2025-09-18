@@ -1,13 +1,3 @@
-# Olá, eu sou o Luiz! Bem-vindo(a) ao meu perfil! 👋
-
-## Sobre mim
-<p>
-Cearense 🌵, estudante de Ciência da Computação e um apaixonado por tecnologia. Com um forte foco em automação de testes usando <strong>Robot Framework</strong> e desenvolvimento com <strong>JavaScript</strong>, <strong>Java</strong> e <strong>Python</strong>, estou sempre buscando aprender e aplicar novas tecnologias para criar soluções inovadoras. Atualmente, aprofundo meus conhecimentos em algoritmos, estruturas de dados e engenharia de software.
-</p>
-
-## Conecte-se comigo
-<a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br>
