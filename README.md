@@ -6,4 +6,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizGup&show_icons=true&theme=dark&title_color=F4F4F4&icon_color=71BB33&text_color=E4E4E4)
 
-</div>****
+</div>
