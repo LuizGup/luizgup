@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/LuizGup">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=41C1F5&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Luiz!+%F0%9F%91%8B;QA+%26+Test+Automation+Engineer;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=41C1F5&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Luiz+Carlos!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,19 +12,22 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-- 🤖 Apaixonado por **automação de testes** — Robot Framework é minha ferramenta do dia a dia, garantindo qualidade de ponta a ponta.
-- 💻 Desenvolvedor com sólida experiência em **JavaScript**, **TypeScript**, **Java** e **Python**.
-- 📱 Atuação em desenvolvimento mobile com **Kotlin** e **Android Studio**.
-- 🛠️ Entusiasta de boas práticas, código limpo e ferramentas que elevam a produtividade.
-- 📊 Mais de **758 horas** de código rastreadas desde junho de 2024, com média diária de **1h52min**.
+Sou apaixonado por utilizar a tecnologia como ferramenta para solucionar desafios do dia a dia e gerar impacto real.
+
+Fluente em inglês pela Cultura Inglesa, concluí o curso Fullstack Development na Digital College antes de iniciar a graduação — experiência que foi fundamental para meu aprendizado em programação e introdução às tecnologias atuais. Atualmente, sou graduando em Ciência da Computação pela Universidade de Fortaleza (Unifor), com conclusão prevista em 2027.
+
+Busco constantemente expandir meus conhecimentos e explorar novas áreas dentro da computação, entendendo que esse campo vai além do desenvolvimento de hard skills, abrangendo também a formação de comunidades e conexões humanas. Acredito que meu conjunto de hard e soft skills agrega valor tanto para o desenvolvimento de aplicações quanto para o trabalho em equipe.
 
 ---
 
-### 🔗 Contato
+### Contato
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/luiz-carlos-968505275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://github.com/LuizGup">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -35,44 +38,39 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
-**Linguagens:**
+**Frontend:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**QA & Automação de Testes:**
+**Banco de Dados:**
 
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-**Web & Mobile:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Ferramentas & DevOps:**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Banco de Dados:**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
 
