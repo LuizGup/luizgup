@@ -75,7 +75,6 @@ Busco constantemente expandir meus conhecimentos e explorar novas áreas dentro 
 <div align="center">
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizgup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41C1F5&icon_color=41C1F5&text_color=F4F4F4)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=LuizGup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41C1F5&icon_color=41C1F5&text_color=F4F4F4" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41C1F5&text_color=F4F4F4" alt="Linguagens mais usadas" width="48%"/>
